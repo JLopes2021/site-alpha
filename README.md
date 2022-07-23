@@ -7,11 +7,15 @@
 - Esse projeto também possui um caminho pelo PHP, porém, como é algo interno o JS atendeu bem os requisitos necessários
 - Os códigos JS estão na forma simplificada, para você poder dar um FORK e já sair estilizando conforme você achar melhor
 
-### Ferramentas Utilizadas
-- HTML 5
-- CSS 3
-- BOOTSTRAP v5
-- JS
+### Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+
 
 
 ### Fotos do nosso Site
