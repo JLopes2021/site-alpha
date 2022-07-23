@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="imagex/png" href="">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="css/index.css">
     <title>Célula Yeshiva Santa Faustina</title>
@@ -27,63 +28,31 @@
     <div class="col">
       O Começo de Tudo
     <h2>A Célula da Consolação</h2>
-    <p2>Muita gente não sabe: Mas, tudo começou quando eu e a Larissa estávamos servindo em um evento chamado "Convertei-Vos" e foi quando a nossa líder de Células me procurou (mas não conseguiu falar comigo aquele dia)
-    </p2><p3><strong>Mas, eu já fiquei ligado</strong></p3><p2> e depois disso nós descobrimos que: Nossa então líder de célula saiu da comunidade...E naquele dia então, a <strong>Célula Florescer</strong> deu alguns frutos que foram parar na <strong>Célula da Consolação</strong></p2>
-    <h2>O Caminho até a Consolação</h2>
-    <p2>Eu só não contava com a astúcia da então líder da região de 
-      SP (era a Nakayama na época) de me chamar no pv e perguntar se eu não poderia assumir a Célula junto com a Larissa. 
-      Foi lá que conhecemos as figurinhas:<br>
+    <p2>
+    </p2><p3><strong></strong></p3><p2><strong></strong><strong></strong></p2>
+    <h2></h2>
+    <p2>
+        <br>
       <p4>
       <table>
-        Maria Fernanda, Renan, Miguel, Pedro e Vinícus Zanotti <br>
-        <img id="ilustracao-img" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyvtkEgJltemLrbpX7eUrXbyfGeuaXcQsYi6zOtrmasMUXpxFxXCk-ytQE0x_bYs_6My9rSOuHrCxldT4jiTwjiPaP1vnvQiunr5C9FDR54uICoWeQWulayFo2K8XKCyRB3hNM4ixN1B6UB7AgQtnjYQBcNc6AYRwdyz0oGiI77lq_0b8ybNEXzS2sfg/s320/WhatsApp%20Image%202022-07-20%20at%2019.30.04%20(1).jpeg" alt="foto-miguel">
+         <br>
+        <img id="ilustracao-img" src="" alt="foto-ilustracao">
       </table>
       <p4>
     </p2>
   </div>
     <div class="col">
-      <h2>E Chegou-se a PANDEMIA</h2>
-      <p2>
-        Então, um pouco antes de chegar a Pandemia, eu e a Larissa entregamos a liderança da Célula da Consolação (o ciclo precisava se fechar)...a Célula aqui da Zona Norte estava em uma espécie de limbo temporal, ninguém falava mais nada...
-        e chegou a pandemia da COVID-19 (em 2020). TUDO se fechou...! Todos isolados, eu não sabia bem o que estava acontecendo na comunidade, todos estavam em isolamento. Porém, foi uma época em que estudei e me preparei bastante.
-        Certo dia, Deus me inspirou a chamar a galera para rezar...e a gente foi se reunindo pelo MEET e pelo WhatsApp quando era preciso, todo domingo a gente fazia isso. 
-        Quando eu menos esperava, a liderança de SP entrou em contato comigo, para falar sobre o treinamento Alpha, durante a pandemia, completinho...tudo online! Mas era já para abrir a nova Célula aqui na nossa Zona Norte. (começou a voltar a esperança)  
-      </p2>
+    
     </div>
     <div class="col">
-    <h2>PANDEMIA pt2</h2>
-      <p2>
-        No final do ano de 2020, veio um irmão nosso que era la do Rio de Janeiro, o DAVI. Foi bem na época em que eu fui conhecer a a paróquia do Pedro e vender meus doces (eu não ia perder a oportunidade). Fizemos também depois uma grande convivência com o "ressurgir da consolação", la na Paulista...foi um dia histórico!
-        E ali, Deus voltou a trazer as promessas para a Zona Norte! Porém, precisei guardar isso, ou seja, se você está lendo isso agora é em primeira mão!  
-      </p2>
-    </div>
-    <div class="col">
-    <h2>Célula Yeshiva Zona Norte, agora vai?</h2>
-      <p2>
-        Nhé! 
-        Ainda não my friend, foi um ano cheio de batalhas, foi o ano que chegou as vacinas também, estava uma loucura loucura, até o fundador da comunidade saiu! Más, Deus não faz nada pela metade não, vai achando aí, tá panguando no rolê.  
-      </p2><br>
-      <table>
-      <figure>
-      <img id="ilustracao-img" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih7DKN5o7A6i3cx-TfLMY5-dTiS_4TfIgrbSgci4hz6UQ3O9bGiNGnsbmI3cxemMJigMCjHuMHWuHSXvcgdSHnp-Szcga8rGxHK0cxeVO3iF2FiPyRAuWwwm5qEPiAbXYmZ2PiHPGXnM3f6uIJzyZxnhuvD1UAUy5hoWtV0ilhTfwoZGKB-jbha2SNyA/s320/WhatsApp%20Image%202022-07-20%20at%2020.30.34%20(1).jpeg" alt="foto-larissa">
-      <figure>A Mimir</figure>
-      </figure>  
-    </table>
-    </div>
-    <div class="col">
-    <h2>A Decisão: VAMOS FAZER</h2>
-      <p2>
-        Após o geração Atomika 2021, Deus me moveu e disse que eu devia ir para cima, e buscar a Zona Norte novamente, foi quando eu entrei em oração e já houveram algumas mudanças nas lideranças, e não só isso! A galera se moveu também para fazer
-        e entra novamente os frutos da Célula Florescer e da Célula da Consolação: Vamos fazer convivência até o padre fazer a reunião com a gente ,ou seja, vamos queimar até não sobrar nada! shuriscararalababa! 
-        E aconteceu a primeira conviência na casa da Maria Fernanda! (Na foto lá em cima).   
-      </p2>
+   
     </div>
    <br><hr>
     <div class="col">
       <h1>Agora sim, CÉLULA YESHIVA SANTA FAUSTINA</h1>
     </div>
     <div class="col">
-      <img class="ilustracao-img" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiCjw9hrzo90_FDZVmVus4_yC4lq3aD_eMiujzbUkXiOmejTiqZOJARAaP0RGA5GXjuGsXKT15aOOehreJpppUDhBk-orOpAchOEH_aWc4JZpC541AJYH1zkcoelz2c2LotsVXaGnnRL2LmjOS7Rc0x_10BX6K8cr70dx1abe0mCKYWbXk-vZjgPv3mg/s320/245707585_2001768930009775_2474145375942767935_n.jpg" alt="ilustracao" height="300px" width="250px"></img></div>
+      <img class="ilustracao-img" src="" alt="ilustracao" height="300px" width="250px"></img></div>
       <button class="btn-primary" onclick="abrirMensagens()" > Você tem novas mensagens</button>   
     </div>
 <hr>
@@ -91,41 +60,13 @@
 <hr>
 
 <div class="col">
-    <h2>Começamos a colecionar algumas histórias não é?</h2>
+    <h2></h2>
       <p2>
-        Já teve quase de tudo, visitas, rolês, muuiittaa pizza! Mas, a única coisa que não quero nunca que falte em vocês é: Nunca faltem com a verdade! Por mais que ela doa e por mais que ela machuque
-        nunca deixe que o sol se ponha antes de você se resolver com os irmãos!
-        <br>
-        É isso, fique com mais fotinhas nossas (sim, eu sei, ta tudo em tamanho diferente, mas o servidor só autorizou o site na sexta feira quase 0h. Não tive muito tempo)
-    </p2><br>
+          </p2><br>
       <figure>
-      <img id="ilustracao-img" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjdVhL2uW1g34Zb_TUGjDuxlZjZD5axzvAmRjhQlJ2IYBcxX-VZk9FPOsF1EbYr1Dl_HnR9bJt6FAfCx8wdvH82t5hjQGtmdg5KDr_QS7dPnQAqowvOwUw00xVWZVQoj0rup3Zf6Q3LK5kkiEx48r991U7ow6_pTGOY3ibcxFEDSzGdMT2bLscy3AxKA/s320/WhatsApp%20Image%202022-07-20%20at%2019.16.19%20(1).jpeg" alt="fotos">
-      <figcaption>Primeiro Shuris da Missão São Paulo - Nossa Senhor da Boa Morte</figcaption>
-      <img id="ilustracao-img" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvYleIcuiP-u5PRlH5urKXpkKPwTLPqcQX0A6UN6qCN5NrYKNji1N0J0n_n9vYHpRH2tpZzDjOYL-OYpPdyi0eq0o9VGCU58_5Nm02w3XvcVtaMvZJ7t72CGCOcUHsB0o_CQq1RlBE5zKRFA0L1yRh5lGat6_5Hso9aVnuWRtP78rNpRoZFH5KyD3fZw/s320/WhatsApp%20Image%202022-07-20%20at%2019.16.19%20(2).jpeg" alt="fotos">
-            <figcaption>Primeira convivência na casa do Padre (hoje é nossa também)</figcaption>
-
-      <img id="ilustracao-img" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaGuQiTq-uyWQ2Js_-pNmVGGtqgMDABn5BdUDYUvqz6Br31mKzAq6dRdSGdzfBrB63GlJST6oWbVBlRGkos1wSRLrsGw2FFU0mIxfBox4UhexuTyANj0oA1Fx6fL5C8QqwyrzfnYkBHAC83Qt2jUdQiTT9oXA3Cl-qGv0eut0bsqCGhoVd91KhTgIgtw/s320/WhatsApp%20Image%202022-07-20%20at%2019.16.20.jpeg" alt="fotos">
-            <figcaption>Primeira Missa Anna Kariely e Paulo juntos com a gente </figcaption>
-
-      <img id="ilustracao-img" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAtHuw1k5hThnutPxX_mVkNLS2BvXMie_NwTN_pu9BtJD92ldyDVLOhykaE9_ZIKQp2br4OJpqdHI9dx-4leWShD1NMZYrFmeOgrX4cDIX8muroEohwCsH_5AITu8b6Ko4aE0R_vj1rlXQCO9t8tNFX_ZI9X4C9LDGgRAMPJrdMYMTPmjaq03Gr-1UgQ/s320/WhatsApp%20Image%202022-07-20%20at%2019.17.18.jpeg" alt="fotos">
-                  <figcaption>Primeira Missa de sexta que participamos </figcaption>
-
-      <img id="ilustracao-img" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg12azICJTg_k5JWrrWBsmJxeZrf6EdMy1EgkM6ilG4Q_Fl53CLON655fEb6r568DI_AmBy_jw5M-btNQPqHC4ntNHaXe5SYDSJm1E6cf-nt9SfJx5uKpsvfU8J_AyJrpNMQXe-CWDJmMCZjE7N13rYnauPK1ywEf7QFIJavssCqeU1rkFLdQ6pq4w3QA/s320/WhatsApp%20Image%202022-07-20%20at%2019.17.19%20(3).jpeg" alt="fotos">
-                  <figcaption>Primeira vez que dormimos na casa do Padre (hoje é nossa também, ja falei isso?) </figcaption>
-
-      <img id="ilustracao-img" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUnNmIewp9zDzu0aQhUYGE9bnkNk0O4MAadp921ya7iEl9v5IqRDPhJs2ezsBbVQffT9YHFo3d6UUPLVx7IuGYVqlISR--q5ejjolZfubfuyXSwwIZM3B9P71V1epjxhJ8E3tWQPFRFZHEJN6LYZJjI5WCcgjLDM9s5RUXa3IyPYFX6__oWkPMQJBq4Q/s320/WhatsApp%20Image%202022-07-20%20at%2019.17.19%20(1).jpeg" alt="fotos">
-                  <figcaption>Primeira vez do Vini, Mayara, Claudião e varias outras pessoas juntas em convivência na casas do Padre (não preciso mais nem falar)</figcaption>
-
-
-      <img id="ilustracao-img" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY8i2Be-8EoLHxXKlgh9dPLcnC2Eu3wWiiIJtyov03aAlmvLplDaE-3Nl_kTp1aJLVEdFUn-shKYpcSpbVO52Lb5IuMLRvmKlHcElre5OJC6UBz13HK-OKHdJ7GtLkmkPF8W5sxZjIwEg0AM_8UiuCKf6c5MwI9ny1rSFktZmZSfVWdD-HwRLpf5QqkQ/s320/WhatsApp%20Image%202022-07-20%20at%2019.30.04.jpeg" alt="fotos">
-                  <figcaption>Primeiro rolê de moto do Adê na moto do Fernando que ainda tinha a placa (claramente o Adê ficou bem feliz!) </figcaption>
-
-      <img id="ilustracao-img" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUd4QWbiuYYSoRZUvINoYJirGzLLUdkg9fkm5wPSlY1cPw38zy1Stjkvz0CqkqJhHlU2hQfm4k4RFEGdfUkXrahICUqGkR6JTnk7yAYRLh0aZySsFdUJAsWZOGsj8t87yFG4v3dcfERMYMBaNipGM9KiMp0-7aGmxU6iZ0WRpqUV8N7DzPHsSXnOHOyQ/s320/WhatsApp%20Image%202022-07-20%20at%2019.17.20.jpeg" alt="fotos">
-                  <figcaption>Primeira no Sábado Santo e do Mariano dormindo lá com a gente. <br> PS: O Fernando estava la dentro da nossa casa tentando sobreviver </figcaption>
-
-      <img id="ilustracao-img" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggKsjFgePHn_c-MQchbb9byrH03nb_6zhuPuQYkXoMS2yfkOs19lx_elqfebeEN6clgCOv8GpD04Leg5pcOItkv6k7nhA9-w1bmtUw2SxIFrdyjf5UXgYNK34vQtxNdF5AO-N8JBjsNe6UJfTYHEJYmsVWc6bTTgzRBrYEnkRBaSxOFYJ30MfBkAwDOQ/s320/WhatsApp%20Image%202022-07-20%20at%2019.17.19.jpeg" alt="fotos">
-                  <figcaption>Primeiro aniversário Sacerdotal do Padre com a gente </figcaption>
-
+      <img id="ilustracao-img" src="" alt="fotos">
+      <figcaption></figcaption>
+     
       </figure>  
     </div>
 <hr>
