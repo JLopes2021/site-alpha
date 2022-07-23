@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <i lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +10,8 @@
     <link rel="stylesheet" href="css/index.css">
     <title>Célula Yeshiva Santa Faustina</title>
 </head>
-<img>
+<body>
+    <img>
       <div class="container">
  
           <h3>Célula Yeshiva Santa Faustina</h3>
